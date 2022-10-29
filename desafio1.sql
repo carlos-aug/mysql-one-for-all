@@ -1,5 +1,4 @@
 DROP DATABASE IF EXISTS SpotifyClone;
-CREATE SCHEMA SpotifyClone;
 CREATE DATABASE IF NOT EXISTS SpotifyClone;
 
 CREATE TABLE SpotifyClone.plano (
