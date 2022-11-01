@@ -76,7 +76,7 @@ INSERT INTO SpotifyClone.usuario(usuario, idade, data_assinatura, id_plano)
 
 INSERT INTO SpotifyClone.artista(artista)
 	VALUES
-	('Beyonce'),
+	('Beyoncé'),
     ('Queen'),
     ('Elis Regina'),
     ('Baco Exu do Blues'),
